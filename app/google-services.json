@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908572152065",
+    "firebase_url": "https://airdrop-9a551.firebaseio.com",
+    "project_id": "airdrop-9a551",
+    "storage_bucket": "airdrop-9a551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908572152065:android:68cd716770da4cf5970b00",
+        "android_client_info": {
+          "package_name": "com.example.airdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908572152065-nacb2k49i9ebql3t51m2fsoqoasfcln3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airdrop",
+            "certificate_hash": "bb1a9b38037eaa5813d780eb85c8a089c90badb2"
+          }
+        },
+        {
+          "client_id": "908572152065-qhkof8r77bj991lcal4r6on2g31sv72d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEREu3lMRzof8YXiORW54fdVEP8yLwZjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908572152065-qhkof8r77bj991lcal4r6on2g31sv72d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
