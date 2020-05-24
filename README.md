@@ -10,4 +10,4 @@ This app includes:
 - This app provides feature for people who wants to donate and help government to fight with CoronaVirus, there will be donation link for both 'Indian Audience' and 'Foreign Audience'.
 - It provides a feature where we have added the COVID19 contact details provided by the Central Government. If people wants to get more information or want to clear their queries, then they will be able benifit through this feature.
 
-dfsghjzkl.
+
