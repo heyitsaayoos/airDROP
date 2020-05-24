@@ -12,4 +12,11 @@ This app includes:
 
 This Mobile Application was developed as a hackathon build in COVID19 Crisis online hackathon organized by Futureskills(A NASSCOM initiative) and IBM.
 
+Notes:
+- For making the App we have used Android Studio with Firebase.
+- For COVID19 case updates and for the location recognition(Red, Orange or Green), we used the Beautiful Soup Python package and we scapre the data from the given below links.
+   COVID19 cases - https://www.mohfw.gov.in/
+   
+   Location Scraping - https://www.indiatoday.in/india/story/red-orange-green-zones-full-current-update-list-districts-states-india-coronavirus-1673358-2020-05-01
+- For designing of the app we have used Figma Designing Software.
 
